@@ -1,4 +1,3 @@
-import ru.leti.SearchInducedWheel;
 import ru.leti.wise.task.graph.util.FileLoader;
 import org.junit.jupiter.api.Test;
 
